@@ -1,0 +1,88 @@
+.main_box{
+	max-width:1920px;
+}
+.banner_info{
+	position:relative;
+}
+.banner .banner_text{
+	width:390px;
+	height:120px;
+	text-align: center;
+	position: absolute;
+	top:30%;
+	left:40%;
+}
+.advertises_bg{
+	width:100%;
+	background-color: #f8f8f8;
+}
+.advertises_info{
+	width:100%;
+	margin:0 auto;
+	font-family:"微软雅黑";
+}
+.advertises_info h1{
+	font-size: 28px;
+	text-align: center;
+	font-weight: bold;
+}
+.advertises_text{
+	margin-bottom: 20px;
+	background:#fff;
+	padding:25px 40px;
+}
+.advertises_text h2{
+	font-size: 18px;
+	line-height: 30px;
+	color:#5a5a5a;
+	font-weight: bold;
+	margin:0;
+}
+.advertises_text p{
+	color:#636363;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: bold;
+}
+.advertises_demand{
+	background:#fff;
+	padding:25px 40px;
+	margin-bottom: 20px;
+	position: relative;
+}
+.advertises_demand hr{
+	width:100%;
+	margin: 0;
+}
+.advertises_demand h2{
+	font-size: 16px;
+	font-weight: bold;
+	color:#636363;
+	margin:0;
+}
+
+.advertises_demand h3{
+	font-size: 14px;
+	color:#999898;
+	margin:10px 0;
+
+}
+.advertises_demand h3>span{
+	float:right;
+}
+.advertises_demand ol{
+	padding-left: 0;
+}
+.advertises_demand ol li{
+	font-size: 12px;
+	color:#999898;
+	list-style-position: inside;
+	line-height: 24px;
+}
+.advertises_demand input{
+	position: absolute;
+	right: 5%;
+	bottom: 12%;
+	background: #46959d;
+	color:#fff;
+}

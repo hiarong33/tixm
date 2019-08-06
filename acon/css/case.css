@@ -1,0 +1,25 @@
+.Business{
+	padding: 31px;
+}
+.Business .lbt{
+	text-align:  center;
+	background: #fff;
+	margin: 16px 0;
+	padding-top:52px; 
+	font-size: 18px;
+	line-height: 40px;
+}
+.Business .lbt .ima{
+	display: inline-block;
+	font-size: 18px;
+	color: #898989;
+}
+.Business .lbt img{
+	margin: 0 0px;
+}
+.Business  .leir .ima2{
+	text-align: center;
+}
+.Business  .leir .ima2 img{
+	margin: 25px 0 10px ;
+}

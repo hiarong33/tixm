@@ -1,0 +1,181 @@
+.main_box{
+	max-width:1366px;
+	font-family: "微软雅黑";
+}
+
+.banner img{
+	width:100%;
+	position: relative;
+}
+.banner div{
+	position: absolute;
+	top:30%;
+	left:30%;
+	z-index: 1;
+}
+.banner div p{
+	font-size: 18px;
+	font-weight: bold;
+}
+.banner div h2{
+	font-size: 34px;
+	margin: 0;
+	color: #46959d;
+}
+.section_bg {
+	width:100%;
+	background-color: #f8f8f8;
+	padding-top: 37px;
+}
+.section_left .sectian_img_01 img,.section_left .sectian_img_02 img{
+	width:100%;
+}
+.section_left .sectian_img_01 p,.section_left .sectian_img_02 p{
+	text-align: center;
+	height:50px;
+	font-size: 16px;
+	line-height: 46px;
+	text-align: center;
+	background: #f0f0f0;
+}
+.infomation{
+	width:100%;
+}
+
+.infomation .info1{
+	margin-top: 30px;
+	padding:0 0 20px 60px;
+	background-color: #fff;
+	overflow: hidden;
+}
+.infomation .info1>img{
+	float:left;
+	margin-right:30px;
+}
+.infomation .info1 h2{
+	padding:20px 0 30px;
+	font-size: 32px;
+	text-align: center;
+}
+.infomation .info1 h3{
+	font-size: 18px;
+	font-weight: bold;
+	margin: 25px 0 10px;
+	color:#585858;
+}
+.infomation .info1 p{
+	font-size: 24px;
+	color:#777;
+}
+.infomation .info1 ul li{
+	list-style-image: url(../images/details_list_img.gif);
+	list-style-position: inside;
+	font-size: 18px;
+	color: #777;
+}
+.infomation .info2{
+	padding: 60px 0 50px 120px;
+	width:100%;
+	height:283px;
+	background: url(../images/details_bg_03.jpg);
+}
+.infomation .info2 p{
+	height: 48px;
+	line-height: 48px;
+	font-size: 22px;
+}
+.infomation .info2 p span{
+	font-weight: bold;
+	padding-left: 10px;
+}
+.infomation .info3{
+	background: #fff;
+	padding: 30px 5% 50px ;
+}
+.infomation .info3 h3{
+	font-size: 36px;
+	text-align: center;
+}
+.infomation .info3 i{
+	width: 80%;
+	height: 1px;
+	background: #c9c9c9;
+	display: block;
+	margin: 10px auto;
+}
+.infomation .info3 .main_list{
+	width:100%;
+	display: flex;
+	justify-content:space-between;
+}
+.infomation .info3 .main_list img{
+	display: inline-block;
+}
+.infomation .info4 img{
+	width:100%;
+}
+.infomation .info5{
+	background-color:#fff;
+	padding: 20px 30px 40px;
+}
+.infomation .info5 h3{
+	margin:0;
+	font-size: 30px;
+	color: #46959d;
+	text-align: center;
+}
+.infomation .info5 p{
+	margin-top: 10px;
+	font-size: 14px;
+	color: #7c7c7c;
+	text-align: center;
+}
+.infomation .info5 h4{
+	text-align: center;
+}
+.infomation .info5 h4 span{
+	font-size: 22px;
+	color: #46959d;
+}
+.infomation .info5 i{
+	width: 30%;
+	height: 1px;
+	background: #c9c9c9;
+	display: inline-block;
+	margin: 10px auto;
+}
+.infomation .info5 .filtration_icon{
+	width: 70%;
+	margin:0 auto;
+	display: flex;
+	justify-content:space-between;
+}
+.infomation .info5 .filtration_icon div{
+	display: block;
+}
+.section .infomation .info5 .filtration_icon div p{
+	font-size: 22px;
+}
+.infomation .info6{
+	background: #fff;
+	width: 100%;
+	padding:0 5%;
+	display: flex;
+	justify-content:space-between;
+}
+.infomation .info6 div{
+	width:49%;
+}
+.infomation .info6 div img{
+	width:100%;
+}
+.infomation .info6 div p{
+	background: #fbf9f7;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px 0;
+	margin-bottom:0;
+}
+.infomation .info7 img{
+	width:100%;
+}
