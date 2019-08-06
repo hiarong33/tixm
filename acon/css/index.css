@@ -1,0 +1,206 @@
+.banner .row .banner_2{
+    position: relative;
+} 
+.banner .row .banner_2text{
+    text-align: center;
+    position:absolute;
+    top: 230px;
+    right: 666px;
+}
+.banner .row .banner_2text h1{
+    color: #333;
+    font-size: 56px;
+    font-weight: 700;
+}
+.banner .row .banner_2text h4{
+    color: #333;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.banner .row .banner_2text p{
+    color: #333;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 50px;
+}
+.banner .row .banner_2text span{
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.banner .row .banner_3{
+    position: relative;
+} 
+.banner .row .banner_3text{
+    text-align: center;
+    position:absolute;
+    top: 250px;
+    left:380px;
+}
+.banner .row .banner_3 h1{
+    color: #333;
+    font-size: 56px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+.banner .row .banner_3text h4{
+    color: #999999;
+    font-size: 32px;
+    font-weight: 100;
+}
+.banner .row .banner_3text p{
+    color: #333;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 50px;
+}
+.banner .row .banner_3text span{
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+.product .row{
+    margin: 20px 0;
+}
+.product .row  img{
+    margin: 0 auto;
+    width: 100%;
+}
+.product .row  .img_1{
+    margin-right: 20px;
+}
+.product .row  .img_2{
+    margin-left: 20px;
+}
+
+.product  .product_case1 .left {
+    position: relative;
+    margin: 0 auto;
+}
+.product  .product_case1 .left .introduce{
+    position:absolute;
+    top: 50px;
+    left: 140px;
+    text-align: center;
+}
+.product  .product_case1 .left .introduce h1{
+    font-size: 50px;
+    color: #3b3b3b;
+    font-weight: 900;
+    line-height: 60px;
+}
+.product  .product_case1 .left .introduce p{
+    font-size: 16px;
+    color: #666;
+    font-weight: 300;
+    padding-bottom: 60px;
+}
+.product  .product_case1 .left .introduce span{
+    font-size: 16px;
+    color: #666;
+    font-weight: 600;
+}
+.product  .product_case2 .right {
+    position: relative;
+    margin: 0 auto;
+}
+.product  .product_case2 .right .introduce{
+    position:absolute;
+    top: 50px;
+    left: 120px;
+    text-align: center;
+}
+.product  .product_case2 .right .introduce h1{
+    font-size: 50px;
+    color: #3b3b3b;
+    font-weight: 900;
+    line-height: 60px;
+}
+.product  .product_case2 .right .introduce p{
+    font-size: 16px;
+    color: #666;
+    font-weight: 300;
+    padding-bottom: 60px;
+}
+.product  .product_case2 .right .introduce span{
+    font-size: 16px;
+    color: #666;
+    font-weight: 600;
+}
+.case .row .product_case3 {
+    position: relative;
+}
+.case .row .product_case3 .introduce{
+    position: absolute;
+    top:205px;
+    right: 380px;
+    text-align: center;
+}
+.case .row .product_case3 .introduce h1{
+    font-size: 50px;
+    color: #333;
+    font-weight: 900;
+    margin-bottom:50px; 
+}
+.case .row .product_case3 .introduce h4{
+    font-size: 32px;
+    color: #669999;
+    font-weight: 500;
+    margin-bottom:25px; 
+}
+.case .row .product_case3 .introduce p{
+    font-size: 18px;
+    color: #999999;
+    font-weight: 100;
+    margin-bottom:45px; 
+}
+.case .row .product_case3 .introduce span{
+    font-size: 16px;
+    color: #666;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.case .container-fluid .row img{
+    width: 100%;
+}
