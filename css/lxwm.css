@@ -1,0 +1,66 @@
+.Business {
+	margin-top: 30px;
+}
+.Business .left {
+	padding: 35px;
+	background: #ffffff;
+}
+.Business .left h1 {
+	margin: 36px 35px;
+
+	font-size: 20px;
+}
+
+.Business .left div {
+	margin: 36px 35px;
+	display: block;
+}
+.Business .left span {
+	display: block;
+}
+.Business .left .input {
+	width: 250px;
+}
+.Business .left .input1 {
+	width: 250px;
+	height: 60px;
+}
+.Business .left .input2 {
+
+	background: #49959d;
+	width: 150px; height: 30px;
+	
+}
+
+.Business .right {
+	padding: 36px;
+	background: #ffffff;
+	margin-left: -30px;
+	position: relative;
+}
+.Business .right h1 {
+	/* padding: 40px; */
+	font-size: 30px;
+	margin: 40px 36px;
+
+}
+.Business .right .media {
+	/* padding: 22px; */
+	margin: 40px 36px;
+	font-size: 10px;
+	overflow: hidden; 
+}
+.Business .right h4 {
+	font-size: 20px;
+}
+.Business .right h6 {
+	font-size: 5px;
+}
+
+.Business .right .qrcode{
+	position: absolute;
+	right:5%;
+	bottom: 15%;
+}
+
+
